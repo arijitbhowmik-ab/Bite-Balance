@@ -81,7 +81,7 @@ st.markdown("""
         background-color: #f8f9fa;
     }
     .title {
-        font-size: 100px;
+        font-size: 100px !important;
         font-weight: bold;
         color: #ff4b4b;
         text-align: center;
